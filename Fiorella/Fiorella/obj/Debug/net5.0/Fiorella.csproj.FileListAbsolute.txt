@@ -301,3 +301,9 @@ C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razo
 C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Blog\Index.cshtml.g.cs
 C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Blog\Details.cshtml.g.cs
 C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Blog\Create.cshtml.g.cs
+C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Experts\Index.cshtml.g.cs
+C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Experts\Details.cshtml.g.cs
+C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Experts\Create.cshtml.g.cs
+C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\Experts\Update.cshtml.g.cs
+C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\SliderImage\Index.cshtml.g.cs
+C:\Users\HP\Desktop\GitHub\ASP.NET-Tasks\Fiorella\Fiorella\obj\Debug\net5.0\Razor\Areas\AdminPanel\Views\SliderImage\Create.cshtml.g.cs
